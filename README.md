@@ -7,8 +7,8 @@
 | **PJ** | [Rakha Hafidz Fauzan] |
 | **Tema** | [Akademik Kampus] |
 | **Tanggal** | [22/10/2026] |
-| **Nama** | [Khairul Adam Effendi] |
-| **NPM** | [4525210035] |
+| **Nama** | [Kevin Samuel Fernatyanan] |
+| **NPM** | [4525210033] |
 
 ---
 
