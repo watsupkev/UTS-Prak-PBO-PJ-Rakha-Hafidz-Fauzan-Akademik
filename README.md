@@ -16,10 +16,10 @@
 
 | Nama | NPM | Tugas / Fitur yang Dikerjakan |
 | :--- | :--- | :--- |
-| [Khairul Adam Effendi] | [4525210035] | [] |
+| [Khairul Adam Effendi] | [4525210035] | [Main.java] |
 | [Kahlil Ar'umi Kaicil Putera] | [4525210030] | [Jurusan.java] |
 | [Ilham Baihaqi] | [4525210029] | [Jadwal.java] |
-| [Karel Abimanyu Ahpandi] | [4525210031] | [] |
+| [Karel Abimanyu Ahpandi] | [4525210031] | [Quality Check] |
 | [Kevin Samuel Fernatyanan] | [4525210033] | [Dosen.java] |
 | [Harisa Malfa Liya] | [4525210027] | [Isi tugas/fitur yang dikerjakan] |
 | [Chelsy Olivia Maranggi Hutapea] | [4525210028] | [Isi tugas/fitur yang dikerjakan] |
